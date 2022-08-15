@@ -153,6 +153,14 @@ p {
   gap: 30px;
 }
 
+
+.grid4 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+
 .outline-btn {
   color: #11b468;
   margin: 0;
